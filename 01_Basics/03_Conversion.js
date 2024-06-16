@@ -24,7 +24,7 @@ console.log(value2)
 let isLoggedIn = 1
 let boolLoggedIn = Boolean(isLoggedIn)
 console.log(boolLoggedIn)       //output is true because it is a non zero value, only for zero its false
-// from string to Boolean, if string is empty then after converting value would be true else for non empty string value would be false
+// from string to Boolean, if string is empty then after converting value would be false else for non empty string value would be true
 
 // Conversion to Boolean
 // 0 => false; 1 or non zero number => true
